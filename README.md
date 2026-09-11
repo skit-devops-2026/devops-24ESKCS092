@@ -3,8 +3,8 @@ ReVibe
 ## Author
 
 | Roll No. | Name | GitHub username |
-|24ESKcS092|BHUVNESHWAR |B240578|
-| <roll> | <name> | <username> |
+
+| 24ESKCS092| <name> | <username> |
 
 ## About
 
