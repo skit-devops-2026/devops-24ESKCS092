@@ -1,18 +1,18 @@
 # <Project Name>
-
+ReVibe
 > Replace every angle-bracket placeholder below. The hygiene check in CI will
 > fail until you do.
 
 ## Author
 
 | Roll No. | Name | GitHub username |
-|---|---|---|
+|24ESKcS092|BHUVNESHWAR |B240578|
 | <roll> | <name> | <username> |
 
 ## About
 
 <Two or three sentences on what this application does.>
-
+ReVibe is a web application where users can browse and manage listings. It includes user authentication and an organised interface for viewing listing information.
 ## Tech stack
 
 - Frontend: <e.g. React>
