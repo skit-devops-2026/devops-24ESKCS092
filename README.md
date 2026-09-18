@@ -37,3 +37,11 @@ The repository follows a simple workflow:
 2. Make and test a change.
 3. Open a pull request.
 4. Merge the approved change into main.
+
+## Repository Structure
+
+- `.github/workflows/` - GitHub Actions workflow files.
+- `docs/` - Project and deployment documentation.
+- `k8s/` - Kubernetes manifests for deployment.
+- `monitoring/` - Monitoring configuration and dashboards.
+- `scripts/` - Utility and automation scripts.
