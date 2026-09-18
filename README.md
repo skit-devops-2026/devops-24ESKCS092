@@ -22,3 +22,4 @@ It includes user authentication and an organised interface for viewing listing i
 ```bash
 make install
 make run
+```
