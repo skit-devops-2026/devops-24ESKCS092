@@ -23,3 +23,9 @@ It includes user authentication and an organised interface for viewing listing i
 make install
 make run
 ```
+
+## Project Goals
+
+- Maintain a clean and traceable Git workflow.
+- Automate testing through continuous integration.
+- Demonstrate reproducible DevOps practices.
