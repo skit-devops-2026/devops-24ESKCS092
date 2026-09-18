@@ -29,3 +29,11 @@ make run
 - Maintain a clean and traceable Git workflow.
 - Automate testing through continuous integration.
 - Demonstrate reproducible DevOps practices.
+
+## DevOps Workflow
+
+The repository follows a simple workflow:
+1. Create a feature branch.
+2. Make and test a change.
+3. Open a pull request.
+4. Merge the approved change into main.
