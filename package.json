@@ -1,0 +1,8 @@
+{
+  "name": "revibe",
+  "version": "1.0.0",
+  "description": "ReVibe DevOps project",
+  "scripts": {
+    "test": "node --test"
+  }
+}
